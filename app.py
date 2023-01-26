@@ -3,10 +3,10 @@
     Calculator
     ~~~~~~~~~~~~~~
 
-    A simple Calculator made by Flask and jQuery.
+    A simple Calculator made by Flask and jQuery. ( Addition)
 
     :copyright: (c) 2015 by Grey li.
-    :license: MIT, see LICENSE for more details.
+    :license: MIT, see LICENSE for more details. (Addition)
 """
 import re
 from flask import Flask, jsonify, render_template, request
